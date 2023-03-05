@@ -107,7 +107,7 @@ public abstract class ChessGamePiece{
     }
     // ----------------------------------------------------------
     /**
-     * Generates and returns a list of Strings that represent possible move
+     * Generates a returns a list of Strings that represent possible move
      * locations for the piece, in the following format: ["xloc_0,yloc_0",
      * "xloc_1,yloc_1", ...] It is recommended to use the helper methods below
      * to implement this method. (calculateNorth, calculateWest, ...)
